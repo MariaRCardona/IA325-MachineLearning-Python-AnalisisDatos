@@ -1,6 +1,6 @@
 # Proyectos del Curso IA 325 Curso becado datahack IBM SkillsBuild / Módulo Python y Machine Learning
 
-Este repositorio contendrá los proyectos y ejercicios que realizaré como parte de mi aprendizaje en Machine Learning, cubriendo los siguientes módulos:
+Este repositorio contendrá los proyectos y ejercicios realizados como parte de mi aprendizaje en Machine Learning, cubriendo los siguientes módulos:
 
 * **Sección 3: Curso básico de Python**
     * Aquí encontrarán proyectos que demuestran mi comprensión de los fundamentos de Python.
